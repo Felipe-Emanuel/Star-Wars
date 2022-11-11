@@ -29,7 +29,7 @@ export const LoggedInNavBar = () => {
   };
 
   return (
-    <Box className="text-purple-50 w-full sm:max-w-[400px] ">
+    <Box className="text-yellow-500 w-full sm:max-w-[400px] ">
       <Text>Desafio - Front End</Text>
       <Separator />
       <Flex css={{ height: 20, alignItems: "center" }}>
