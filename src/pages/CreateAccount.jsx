@@ -102,7 +102,7 @@ export const CreateAccount = () => {
             </div>
           </label>
           <div className="mt-4 text-center">
-            <Button type="submit" text="SIGN UP" />
+            <Button type="submit" text="Criar conta" />
           </div>
         </form>
         <Text className=" flex flex-col text-purple-50 text-[10px] md:text-[12px] text-center py-4">

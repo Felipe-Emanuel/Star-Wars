@@ -71,7 +71,7 @@ export const Login = () => {
             />
           </div>
           <div className="mt-4 text-center z-50">
-            <Button type="submit" text="LOGIN" />
+            <Button type="submit" text="Entrar" />
             <Text className="hover:text-yellow-500 text-center text-[10px] md:text-[12px] text-gray-100">
               <a href="#">Esqueceu a senha?</a>
             </Text>
