@@ -1,0 +1,220 @@
+{
+    "Characters": [
+        {
+            "Luke Skywalker": {
+                "name": "Luke Skywalker",
+                "img_url": "https://i.pinimg.com/564x/18/13/bb/1813bb07eb46ad79e1bccbd809a3a49d.jpg",
+                "starship": "X-wing"
+            },
+            "C3po": {
+                "name": "C-3PO",
+                "img_url": "https://wallpapercave.com/dwp1x/wp2182707.jpg",
+                "starship": "N/A"
+            },
+            "R2d2": {
+                "name": "R2-d2",
+                "img_url": "https://wallpaperaccess.com/full/6135576.jpg",
+                "starship": "N/A"
+            },
+            "Darth Vader": {
+                "name": "Darth Vader",
+                "img_url": "https://images2.alphacoders.com/111/thumbbig-1118141.webp",
+                "starship": "TIE Advanced x1"
+            },
+            "Leia Organa": {
+                "name": "Leia Organa",
+                "img_url": "https://images7.alphacoders.com/888/thumbbig-888755.webp",
+                "starship": "N/A"
+            },
+            "Owen Lars": {
+                "name": "Owen Lars",
+                "img_url": "https://pm1.narvii.com/6956/341d4af1646db654cf56cdd72ea71747a930840cr1-377-388v2_hq.jpg",
+                "starship": "N/A"
+            },
+            "Beru Whitesun Lars": {
+                "name": "Beru Whitesun Lars",
+                "img_url": "https://i.pinimg.com/564x/ac/d7/b4/acd7b429bb51bcab151f38f9e95a0961.jpg",
+                "starship": "N/A"
+            },
+            "R5-D4": {
+                "name": "R5-D4",
+                "img_url": "https://i.pinimg.com/564x/59/93/63/59936360cec97a6780f8cecdcaaded8b.jpg",
+                "starship": "N/A"
+            },
+            "Biggs Darklighter": {
+                "name": "Biggs Darklighter",
+                "img_url": "https://lumiere-a.akamaihd.net/v1/images/image_606ff7f7.jpeg?region=0%2C0%2C1560%2C878&width=600",
+                "starship": "X-wing"
+            },
+            "Obi Wan kenobi": {
+                "name": "Obi Wan kenobi",
+                "img_url": "https://wallpaperaccess.com/full/8051222.jpg",
+                "starship": "Jedi starfighter, Trade Federation cruiser, Naboo star skiff, Jedi Interceptor e Belbullab-22 starfighter"
+            }
+        }
+    ],
+    "Starships": [
+        {
+            "CR90 corvette": {
+                "name": "CR90 corvette",
+                "img_url": "https://i.pinimg.com/564x/c8/e1/03/c8e10396f9f375a8ea8995d4a69a74ee.jpg",
+                "pilots":"N/A"
+                
+            }
+        },
+        {
+            "Star Destroyer": {
+                "name": "Star Destroyer",
+                "img_url": "https://i.pinimg.com/564x/b0/f9/f4/b0f9f4650b557ecb3cf4525b0547a60d.jpg",
+                "pilots":"N/A"
+
+            }
+        },
+        {
+            "Sentinel-class landing craft": {
+                "name": "Sentinel-class landing craft",
+                "img_url": "https://i.pinimg.com/564x/fc/8c/2d/fc8c2da16792892ba4ece0f9cd6be1e5.jpg",
+                "pilots":"N/A"
+
+            }
+        },
+        {
+            "Death Star": {
+                "name": "Death Star",
+                "img_url": "https://images2.alphacoders.com/671/thumbbig-671306.webp",
+                "pilots":"N/A"
+
+            }
+        },
+        {
+            "Millennium Falcon": {
+                "name": "Millennium Falcon",
+                "img_url": "https://i.pinimg.com/564x/e3/21/73/e321734dd003074ff955dabe6fa8afe9.jpg",
+                "pilots":"Chewbacca, Han Solo, Lando Calrissian e Nien Nunb"
+
+            }
+        },
+        {
+            "Y-wing": {
+                "name": "Y-wing",
+                "img_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f5ee1cd0-8dfb-4065-b17b-721cd34058b8/d2krlp5-1b499c40-227d-41cf-b373-381b63d3c01b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y1ZWUxY2QwLThkZmItNDA2NS1iMTdiLTcyMWNkMzQwNThiOFwvZDJrcmxwNS0xYjQ5OWM0MC0yMjdkLTQxY2YtYjM3My0zODFiNjNkM2MwMWIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nekzB-W9M_YxzXWQwsAa0kaAWe_lnoyjoCA6ihycZ0I",
+                "pilots":"N/A"
+
+            }
+        },
+        {
+            "X-wing": {
+                "name": "X-wing",
+                "img_url": "https://images4.alphacoders.com/573/573434.jpg",
+                "pilots":"Luke Skywalker, Biggs Darklighter, Wedge Antilles e Jek Tono Porkins"
+
+            }
+        },
+        {
+            "TIE Advanced x1": {
+                "name": "TIE Advanced x1",
+                "img_url": "https://wallpapercave.com/wp/wp8625844.jpg",
+                "pilots":"Darth Vader"
+
+            }
+        },
+        {
+            "Executor": {
+                "name": "Executor",
+                "img_url": "https://wallpapercave.com/wp/wp9266926.jpg",
+                "pilots":"N/A"
+
+            }
+        },
+        {
+            "Rebel transport": {
+                "name": "Rebel transport",
+                "img_url": "https://media.moddb.com/cache/images/groups/1/9/8071/thumb_620x2000/rebel_transport_box_art_by_wraithdt-d78zzb2.jpg",
+                "pilots":"N/A"
+
+            }
+        }
+    ],
+    "planets": [
+        {
+            "Tatooine": {
+                "name": "Tatooine",
+                "img_url": "https://wallpapercave.com/wp/wp6600735.jpg",
+                "residents":"Luke Skywalker, C-3PO, Darth Vader, Owen Lars, Beru Whitesun lars, R5-D4, Biggs Darklighter, Anakin Skywalker, Shmi Skywalker e Cliegg Lars"
+                
+            }
+        },
+        {
+            "Alderaan": {
+                "name": "Alderaan",
+                "img_url": "https://i.pinimg.com/564x/dc/47/aa/dc47aa27a6d8f2b5f0175c2367995981.jpg",
+                "residents":"Leia Organa, Bail Prestor Organa e Raymus Antilles"
+
+            }
+        },
+        {
+            "Yaviniv": {
+                "name": "Yaviniv",
+                "img_url": "https://wallpapercave.com/wp/wp8343576.jpg",
+                "residents":"N/A"
+
+            }
+        },
+        {
+            "Hoth": {
+                "name": "Hoth",
+                "img_url": "https://wallpaperaccess.com/full/503732.jpg",
+                "residents":"N/A"
+
+            }
+        },
+        {
+            "Dagobah": {
+                "name": "Dagobah",
+                "img_url": "https://i.pinimg.com/564x/13/f3/5c/13f35c6719bd2d52a587cc0d568b0bbd.jpg",
+                "residents":"N/A"
+
+            }
+        },
+        {
+            "Bespin": {
+                "name": "Bespin",
+                "img_url": "https://wallpapercave.com/wp/wp9145324.jpg",
+                "residents":"Lobot"
+
+            }
+        },
+        {
+            "Endor": {
+                "name": "Endor",
+                "img_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3e954c54-d0a2-4aef-9a06-d9ca6419da97/ddfba4u-55eccc09-f132-4fca-af19-a80ea4056881.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNlOTU0YzU0LWQwYTItNGFlZi05YTA2LWQ5Y2E2NDE5ZGE5N1wvZGRmYmE0dS01NWVjY2MwOS1mMTMyLTRmY2EtYWYxOS1hODBlYTQwNTY4ODEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gdS6F0OmDc7NGoxS5EEYdvj44rkPEptVcjY8EvWk8a8",
+                "residents":"Wicket Systri Warrick"
+
+            }
+        },
+        {
+            "Naboo": {
+                "name": "Naboo",
+                "img_url": "https://c4.wallpaperflare.com/wallpaper/339/911/755/naboo-star-wars-star-wars-battlefront-ii-video-games-wallpaper-preview.jpg",
+                "residents":"R2-D2, Palpatine, Padmé Amidala, Jar Jar Binks, Roos Tarpals, Rugor Nass, Ric Olié, Quarsh Panaka, Gregar Typho, Cordé e Dormé"
+
+            }
+        },
+        {
+            "Coruscant": {
+                "name": "Coruscant",
+                "img_url": "https://wallpaperaccess.com/full/2418843.jpg",
+                "residents":"Finis Valorum, Adi Gallia e Jocasta Nu"
+
+            }
+        },
+        {
+            "Kamino": {
+                "name": "Kamino",
+                "img_url": "https://images6.alphacoders.com/112/1123939.jpg",
+                "residents":"Boba Fett, Lama Su e Taun We"
+
+            }
+        }
+    ]
+}
