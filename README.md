@@ -1,4 +1,4 @@
-<h1 align="center"> Star-Wars </h1> 
+<h1 align="center"> Star Wars </h1> 
 
 > Este projeto tem o intuito de entregar as seguintes funcionalidades: criar lista de personagens com base no consumo da API: https://swapi.dev/
 A ideia se consiste em permitir o usuário ter acesso à página com a lista referente. Contudo, para acesso de seus detalhes, o usuário deve estar logado no servidor.
@@ -56,3 +56,6 @@ A ideia se consiste em permitir o usuário ter acesso à página com a lista ref
 > Em dois dias de muito código e muito estudo, foi implementado Login, Logout, Criação de Contas com os dados sendo recebido por um backend para o tratamento dos dados, checagem de senhas iguais, campos obrigatórios e email já cadastrado.
 
 >> #### Um adendo: as imagens não vieram da API https://swapi.dev/ e um <a href='https://github.com/Felipe-Emanuel/Star-Wars/blob/main/sw.json'> arquivo JSON </a> pode ser encontrado com os links para cada imagem tratada neste estudo.
+
+>>> #### Algumas stacks que usei neste projeto:
+>>> <ul> <li> <a href='https://reactjs.org/'>ReactJS</a> </li> <li> <a href='https://www.radix-ui.com/'>Radix-UI</a> </li> <li> <a href='https://tailwindcss.com/'>TailwindCss</a> </li> <li> <a href='https://vitejs.dev/'>Vite</a> </li> <li> <a href='https://nodejs.org/en/'>NodeJS</a> </li> <li> <a href='https://www.javascript.com/'>JavaScript</a> </li> </ul>
