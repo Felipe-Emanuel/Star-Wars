@@ -10,7 +10,7 @@ A ideia se consiste em permitir o usuário ter acesso à página com a lista ref
   <img align="center" alt="HomePage" height="350" width="600" src="https://user-images.githubusercontent.com/108142146/201440323-8e5965f5-3e02-4432-93c8-07cc1ac3c487.png" />
 </div>
 
->> Uma coisa no qual percebi durante os dois dias de desenvolvimento deste projeto é que a API tinha uma certa demora para entregar os dados. De início não foi uma preocupação, e pelo pouco tempo previsto para a conclusão, pensei em não "perder tempo" com esta funcionalidade. Porém, a demora da entrega dos dados de fato era incômodo, então implementei um login usando a bilioteca <a href='https://www.radix-ui.com/'> Radix-Ui</a>. Estilizei adicionando um efeito de brilho e estava pronto...
+>> Uma coisa no qual percebi durante os dois dias de desenvolvimento deste projeto é que a API tinha uma certa demora para entregar os dados. De início não foi uma preocupação, e pelo pouco tempo previsto para a conclusão, pensei em não "perder tempo" com esta funcionalidade. Porém, a demora da entrega dos dados de fato era incômoda, então implementei um loading usando a bilioteca <a href='https://www.radix-ui.com/'> Radix-Ui</a>. Estilizei adicionando um efeito de brilho e estava pronto...
 
 <div align="center"> 
   <img align="center" alt="HomePage" height="350" width="600" src="https://user-images.githubusercontent.com/108142146/201440734-16cd7506-f263-4a77-8895-dd4ab430dd34.png" />
