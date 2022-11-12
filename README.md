@@ -1,4 +1,4 @@
-<h1 align="center"> Star-Wars </h1> 
+<h1 align="center"> Star Wars </h1> 
 
 > Este projeto tem o intuito de entregar as seguintes funcionalidades: criar lista de personagens com base no consumo da API: https://swapi.dev/
 A ideia se consiste em permitir o usuário ter acesso à página com a lista referente. Contudo, para acesso de seus detalhes, o usuário deve estar logado no servidor.
