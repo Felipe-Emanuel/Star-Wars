@@ -28,7 +28,7 @@ A ideia se consiste em permitir o usuário ter acesso à página com a lista ref
   <img align="center" alt="HomePage" height="350" width="600" src="https://user-images.githubusercontent.com/108142146/201440979-d972ef85-2327-4cef-9081-cb19edfc8fe1.png" />
 </div>
 
-> Caso não tenha um e-mail cadastrada, ele poderá facilmente criar uma clicando no botão abaixo e sendo redirecionado...
+> Caso não tenha um e-mail cadastrado, ele poderá facilmente cadastrar um clicando no botão abaixo após o redirecionamento...
 
 <div align="center"> 
   <img align="center" alt="HomePage" height="350" width="600" src="https://user-images.githubusercontent.com/108142146/201441110-aa299fbe-e523-4f0a-b08a-50d30d9c9604.png" />
